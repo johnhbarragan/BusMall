@@ -74,3 +74,9 @@
   section + div.clicks-allowed:hover {
     background-color: rgb(211, 187, 175)
   }
+
+  canvas {
+    max-width: 500px;
+    max-height: 300px;
+    margin: auto;
+  }
